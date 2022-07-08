@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\Users\guilh\Desktop\⠀\Rodrigo\C#\Curso Balta\Teste\obj\Debug\net6.0\ref\Teste.dll
